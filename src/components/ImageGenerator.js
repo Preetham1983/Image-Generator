@@ -15,7 +15,7 @@ const ImageGenerator = () => {
         { inputs: prompt },
         {
           headers: {
-            Authorization: 'Bearer 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',
+            Authorization: '//use your access token',
           },
           responseType: 'arraybuffer',
         }
